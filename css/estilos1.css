@@ -1,0 +1,22 @@
+.flexContenedorParcial {
+    display: flex;
+}
+
+.divIzquierdoParcial {
+    width: 70%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.divDerechoParcial {
+    width: 30%;
+    
+}
+
+.efectoSombreado
+{
+        position:relative;    
+        -webkit-box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;
+        -moz-box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;
+         box-shadow:0 0px 4px #777, 0 0 20px #CCC inset;
+}
